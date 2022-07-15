@@ -159,6 +159,9 @@ class SimpleTestCase(PySparkTestCase):
 This code snippet will feed all the generated datasets to the transformation function as a Spark DataFrame, collect
 the results and check the property we were after all along.
 
+In the next blog post we will tackle the orchestration of unit tests and the addition to your Databricks CI/CD pipeline
+using [Microsoft's Nutter](https://github.com/microsoft/nutter)! Stay Tuned!
+
 ### References
 [Hypothesis Docs](https://hypothesis.readthedocs.io/en/latest/)
 [Tinsel PySpark schema converter](https://github.com/benchsci/tinsel)
