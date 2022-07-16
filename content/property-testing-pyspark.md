@@ -162,6 +162,8 @@ the results and check the property we were after all along.
 In the next blog post we will tackle the orchestration of unit tests and the addition to your Databricks CI/CD pipeline
 using [Microsoft's Nutter](https://github.com/microsoft/nutter)! Stay Tuned!
 
+#### The code is available on [github](https://github.com/xdanny/property-testing-pyspark)
+
 ### References
 [Hypothesis Docs](https://hypothesis.readthedocs.io/en/latest/)
 [Tinsel PySpark schema converter](https://github.com/benchsci/tinsel)
