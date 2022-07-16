@@ -25,6 +25,10 @@ AUTHOR_FEED_RSS = None
 # SOCIAL = (('You can add links in your config file', '#'),
 #           ('Another social link', '#'),)
 
+SOCIAL = (('twitter', 'https://twitter.com/xdannys9'),
+          ('github', 'https://github.com/xdanny'),
+          ('linkedin', 'https://www.linkedin.com/in/sumandan/'))
+
 DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
