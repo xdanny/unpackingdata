@@ -66,7 +66,7 @@ Now, in our testing notebook, we can import the needed functions with the follow
 In order to setup our test datasets, we will be using the same setup as in the previous blogpost:
 
 ```python
-mport hypothesis.strategies as st
+import hypothesis.strategies as st
 from hypothesis import given, settings, HealthCheck
 
 settings.register_profile(
