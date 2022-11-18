@@ -1,4 +1,4 @@
-Title: Integration Testing for your Databricks CI/CD data pipelines
+Title: Implement data quality checks in your pySpark data pipelines
 Date: 2022-11-18
 Category: Data Engineering
 Tags: data quality, pyspark, delta live tables
